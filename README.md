@@ -9,17 +9,13 @@
 UserAgent Generator, In 3 different Programs language 
 <br/>
 <br/>
-<a href="https://github.com/ShaanCoding/ReadME-Generator/"><strong>Explore the docs »</strong></a>
-<br/>
-<br/>
-
 ### Built With
 
 I built this repository for helping people who need help with this code, and i make in 3 different Programs language, so they can use this according to the language they use
 
-- [NodeJs]([https://nextjs.org](https://github.com/SirGateHgL/UserAgent/blob/main/ua.js)
-- [Golang]([https://reactjs.org](https://github.com/SirGateHgL/UserAgent/blob/main/ua.go)
-- [Python]([https://vuejs.org](https://github.com/SirGateHgL/UserAgent/blob/main/ua.py)
+- [NodeJs]([https://github.com/SirGateHgL/UserAgent/blob/main/ua.js])
+- [Golang]([https://github.com/SirGateHgL/UserAgent/blob/main/ua.go])
+- [Python]([https://github.com/SirGateHgL/UserAgent/blob/main/ua.py])
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
